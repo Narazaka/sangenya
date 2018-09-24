@@ -1,0 +1,55 @@
+html, body {
+    margin: 0;
+}
+
+header, main, footer {
+    width: 50em;
+    margin: auto;
+}
+
+h1 {
+    margin: 0;
+    padding: .3em;
+    background: #ff6;
+}
+
+nav {
+    background: #393;
+    padding: 0.5em;
+}
+
+nav span {
+    background: #fff;
+    padding: 0.2em;
+}
+
+h2 {
+    padding: .1em .2em;
+    border: 4px #6ff ridge;
+    background: #ffc;
+}
+
+h3 {
+    padding: .1em .2em;
+    border-bottom: 5px #0cc double;
+}
+
+footer {
+    margin-top: 1em;
+    padding: .3em;
+    border-top: 1px solid #666;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    text-align: left;
+    background: #cff;
+}
+
+th, td {
+    padding: .3em;
+    border: 1px solid #0cc;
+}
